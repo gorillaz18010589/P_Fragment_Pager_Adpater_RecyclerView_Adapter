@@ -1,5 +1,6 @@
 package tw.org.iii.appps.p_fragment_recycleview_adpadter.Adapter;
 //是Viewpager的一種Adpater
+//適合Tab這種少量的,放入Fragment,加入ViewPager
 //1.繼承FragmentPagerAdapter
 //2.2個實作,1個建構式
 //3.因為到時有方法要新增Fragemtn,所以List<Fragment>,還有要設定Title所以List<String>
